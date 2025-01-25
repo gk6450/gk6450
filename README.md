@@ -1,6 +1,7 @@
 - Goutham Kanagarasu
 - Computer Science and Engineering | Government College of Technology, Coimbatore | 2023
-- Web Development (Frontend | Backend) | React Native App Development | Data Analytics | Power BI
+- Software Engineer
+- Dev(Web, App, AI) | Data Analytics
 - 📫 https://www.linkedin.com/in/goutham-kanagarasu-ba7395191
 
 
